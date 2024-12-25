@@ -7,7 +7,7 @@
 ## In progress projects
 - 💻 [grok](https://github.com/kgarri/grok) - An LLVM based programing language that is meant to be simple and intutive 
 - 🕶️ [ESP-Plugin](https://github.com/kgarri/ESP-Plugin) - A server plugin for giving players in CS2 extra sensory perception
-- 🗒️ [Barbar](https://github.com/kgarri/barbar) - A light weight taskbar for linux written in Rust using the [gtk](https://www.gtk.org/)
+- 🗒️ [Barbar](https://github.com/kgarri/barbar) - A light weight taskbar for linux written in Rust using [gtk](https://www.gtk.org/)
 
 
 ## Stats 
